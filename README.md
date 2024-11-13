@@ -54,7 +54,7 @@ The parameters of our configuration are shown in the table.
 * `experiment_benchmark`: Includes experiments of GP3, PQL, CTD, and AC
 * `experiment_benchmark2`: Includes experiments of FMA, DOT, OS-MIP, and ILP
 
-`Benchmark_CTP`:Three benchmark algorithms DDP,$\pi(\tau)$,RAO*
+`Benchmark_CTP`:Three benchmark algorithms DDP,$\pi$($\tau$),RAO*
 * `DDP_DL.py` corresponds to the Dual Dynamic Programming algorithm
 * `pi_tau.py` corresponds to the $\pi$($\tau$) algorithm
 * `RAO_Star.py` corresponds to the RAO* algorithm
