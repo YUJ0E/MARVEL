@@ -5,7 +5,7 @@
 ## Dataset
 Benchmark experiments are conducted on a series of canonical transportation networks, namely Sioux Falls Network, Friedrichshain, Anaheim, and Winnipeg. 
 ![image](pics/dataset.png)
-Before you try to run the codes, please download the dataset from this link: Then put them into the folder `Networks` .
+Before you try to run the codes, please download the dataset from this link: https://drive.google.com/file/d/12L7PRDGWPF-S6sz-tFMFgfeBZWwQwVaV/view. Then put them into the folder `Networks` .
 ## MARVEL Algorithm
 ### Dependencies 
 * Python 3.8
@@ -54,7 +54,7 @@ The parameters of our configuration are shown in the table.
 * `experiment_benchmark`: Includes experiments of GP3, PQL, CTD, and AC
 * `experiment_benchmark2`: Includes experiments of FMA, DOT, OS-MIP, and ILP
 
-`Benchmark_CTP`:Three benchmark algorithms DDP,$\pi$($\tau$),RAO*
+`Benchmark_CTP`:Three benchmark algorithms DDP,$\pi(\tau)$,RAO*
 * `DDP_DL.py` corresponds to the Dual Dynamic Programming algorithm
 * `pi_tau.py` corresponds to the $\pi$($\tau$) algorithm
 * `RAO_Star.py` corresponds to the RAO* algorithm
