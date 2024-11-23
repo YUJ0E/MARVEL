@@ -45,6 +45,7 @@ python Test.py
 * Gurobipy (a license might be needed)
 ### Description
 The parameters of our configuration are shown in the table.
+
 <img src="pics/parameters.png" alt="parameters" width="50%" />
 
 `Benchmark_SOTA`:Five benchmark algorithms OSMIP,DOT,FMA,PQL,DDRL
