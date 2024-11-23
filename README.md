@@ -1,6 +1,6 @@
 # MARVEL
 ## Introduction
-* This is the code repository for the paper "Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks" that was submitted to RA-L 2024. The demo video is also uploaded `MARVEL_Demo.mp4`. 
+* This is the code repository for the paper "MARVEL" that was submitted to RA-L 2024. The demo video has also been uploaded `MARVEL_Demo.mp4`. 
 * This is a joint research program of A*STAR and NUS. (© 2024 A\*STAR. All rights reserved.)
 ## Dataset
 Benchmark experiments are conducted on a series of canonical transportation networks, namely Sioux Falls Network, Friedrichshain, Anaheim, and Winnipeg. 
