@@ -46,7 +46,7 @@ python Test.py
 ### Description
 The parameters of our configuration are shown in the table.
 <div style="text-align: center;">
-    <img src="pics/parameters.png" alt="parameters" width="50%" />
+    <img src="pics/parameters.png" alt="parameters" width="60%" />
 </div>
 `Benchmark_SOTA`:Five benchmark algorithms OSMIP,DOT,FMA,PQL,DDRL.
 * `yang.py` corresponds to the OSMIP algorithm.
