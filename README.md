@@ -48,19 +48,19 @@ The parameters of our configuration are shown in the table.
 <div style="text-align: center;">
     <img src="pics/parameters.png" alt="parameters" width="50%" />
 </div>
-`Benchmark_SOTA`:Five benchmark algorithms OSMIP,DOT,FMA,PQL,DDRL
-* `yang.py` corresponds to the OSMIP algorithm
-* `prakash.py` corresponds to the DOT algorithm
-* `fma.py` corresponds to the FMA algorithm
-* `PQL.py` corresponds to the PQL algorithm
-* `experiment_benchmark`: Includes experiments of GP3, PQL, CTD, and AC
-* `experiment_benchmark2`: Includes experiments of FMA, DOT, OS-MIP, and ILP
+`Benchmark_SOTA`:Five benchmark algorithms OSMIP,DOT,FMA,PQL,DDRL.
+* `yang.py` corresponds to the OSMIP algorithm.
+* `prakash.py` corresponds to the DOT algorithm.
+* `fma.py` corresponds to the FMA algorithm.
+* `PQL.py` corresponds to the PQL algorithm.
+* `experiment_benchmark`: Includes experiments of GP3, PQL, CTD, and AC.
+* `experiment_benchmark2`: Includes experiments of FMA, DOT, OS-MIP, and ILP.
 
-`Benchmark_CTP`:Three benchmark algorithms DDP, $\pi$($\tau$), RAO*
-* `DDP_DL.py` corresponds to the Dual Dynamic Programming algorithm
-* `pi_tau.py` corresponds to the $\pi$($\tau$) algorithm
-* `RAO_Star.py` corresponds to the RAO* algorithm
-All the results of path will be saved in the folder `Networks/{map_name}/Benchmark_Record`
+`Benchmark_CTP`:Three benchmark algorithms DDP, $\pi$($\tau$), RAO*.
+* `DDP_DL.py` corresponds to the Dual Dynamic Programming algorithm.
+* `pi_tau.py` corresponds to the $\pi$($\tau$) algorithm.
+* `RAO_Star.py` corresponds to the RAO* algorithm.
+All the results of path will be saved in the folder `Networks/{map_name}/Benchmark_Record`.
 ### Usage
 ```bash
 # For SOTA
